@@ -1,0 +1,3 @@
+Write a program that asks for the name and age of a student at the university and displays
+"Hello..., you are ... years old and welcome to the university" 
+replacing the ... with, respectively, the name and age.
