@@ -1,0 +1,1 @@
+Write a program that swaps the contents of two numerical data if they have the same sign; otherwise, it puts the sum of the two in the first data point and their product in the second.
