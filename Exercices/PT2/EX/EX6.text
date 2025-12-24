@@ -1,0 +1,2 @@
+do a program that asks the user to enter a temperature in Celsius and prints whether the temperature
+is below freezing (0 degrees), between freezing and boiling (0-100 degrees), or above boiling (100 degrees).

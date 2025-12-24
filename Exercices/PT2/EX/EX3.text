@@ -1,0 +1,2 @@
+ make a program that asks the user for two numbers A and B and prints the result of the division A/B.
+ If B is zero, the program should print an error message instead of attempting the division so you need to slove the problem of division by zero.
